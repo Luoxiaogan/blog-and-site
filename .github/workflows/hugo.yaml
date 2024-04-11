@@ -64,7 +64,9 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./MyFreshWebsite/public  # 确保这个路径指向正确的public目录
+          name: github-pages
+          retention-days: 1
 
   # Deployment job
   deploy:
