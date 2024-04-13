@@ -5,10 +5,10 @@ single-point gradient estimator $G_{f}(x,\delta,z)=\frac{n}{\delta}f(x+\delta z)
 $\delta$ : smoothing radies orthogonally invariant distribution如何去生成，正半轴上的分布（模长分布）和单位球面的均匀分布的卷积
 the difference between the $\nabla f(x)$ and $\nabla^{\delta}f(x)$, 可以被连续性控制
 缺点：varaince 被$\frac{1}{\delta^2}$阶控制，而$|| \nabla f(x)-\nabla^{\delta}f(x)||$被$\delta$控制，两者不可兼得，如何解决？
-a way to variance reduction: two-point gradient estimator $$ \begin{align} G^{(2)}{f}(x;\delta,z)&=\frac{n}{\delta}(f(x+\delta z)-f(x)) \ G^{(2c)}{f}(x;\delta,z)&=\frac{n}{2\delta}(f(x+\delta z)-f(x-\delta z)) \end{align} $$
-这样的话，variance的upper bound 的包含$\delta$的部分是$\delta^2$阶，是好的
+a way to variance reduction: two-point gradient estimator 这样的话，variance的upper bound 的包含$\delta$的部分是$\delta^2$阶，是好的
 直观：当$\delta \to 0$，就是随机的方向导数
-non-orthogonal-invariant distributions gradient estimator 不再是某点的光滑化后的梯度了</p></div><footer class=entry-footer><span title='2024-04-11 00:00:00 +0000 UTC'>April 11, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;66 words&nbsp;·&nbsp;Gan Luo</footer><a class=entry-link aria-label="post link to zeroth order optimization" href=http://localhost:1313/posts/post2/%E7%BB%84%E4%BC%9A-2024.4.11/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>Rich Content and Shortcodes</h2></header><div class=entry-content><p>don’t panic!
+$$a+b=10\c+d=10$$
+non-orthogonal-invariant distributions gradient estimator 不再是某点的光滑化后的梯度了</p></div><footer class=entry-footer><span title='2024-04-11 00:00:00 +0000 UTC'>April 11, 2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;57 words&nbsp;·&nbsp;Gan Luo</footer><a class=entry-link aria-label="post link to zeroth order optimization" href=http://localhost:1313/posts/post2/%E7%BB%84%E4%BC%9A-2024.4.11/></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>Rich Content and Shortcodes</h2></header><div class=entry-content><p>don’t panic!
 Examples Block math:
 $$\varphi=1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots}}}$$
 好</p></div><footer class=entry-footer><span title='2019-03-10 00:00:00 +0000 UTC'>March 10, 2019</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;10 words&nbsp;·&nbsp;Hugo Authors, PaperMod Contributors</footer><a class=entry-link aria-label="post link to Rich Content and Shortcodes" href=http://localhost:1313/posts/post1/></a></article></main><footer class=footer><span>&copy; 2024 <a href=http://localhost:1313/>ExampleSite</a></span>
