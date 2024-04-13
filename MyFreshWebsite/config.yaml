@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog, my name is Little Wolf.
+    Title: "\U0001F44B Welcome to Little Wolf's Blog"
+    Content: Hi, this is Little Wolf. I'm documenting my learning notes in this blog.
 
   socialIcons:
     - name: stackoverflow
@@ -96,7 +96,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Luoxiaogan/blog-and-site/tree/main/MyFreshWebsite/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

@@ -8,21 +8,10 @@ ShowToc: true
 math: true
 ---
 
-don't panic!
+don't panic!!
 
 ### Examples
-
-{{< math.inline >}}
-
-<p>
-Inline math: \(\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…\)
-</p>
-{{</ math.inline >}}
-
 Block math:
-
 $$\varphi=1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots}}}$$
-
 好
-
 ![cat](images/cat.jpg#center)

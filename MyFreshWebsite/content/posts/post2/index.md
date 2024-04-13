@@ -26,7 +26,7 @@ the difference between the $\nabla f(x)$ and $\nabla^{\delta}f(x)$, 可以被连
 
 这样的话，variance的upper bound 的包含$\delta$的部分是$\delta^2$阶，是好的
 
-直观：当$\delta \to 0$，就是随机的方向导数
+直观：当$\delta\to0$，就是随机的方向导数
 
 $$a+b=10\\c+d=10$$
 
