@@ -7,6 +7,7 @@ tags: ["markdown", "shortcodes", "privacy"]
 ShowToc: true
 math: true
 draft: true
+weight: 30
 ---
 
 don't panic!!

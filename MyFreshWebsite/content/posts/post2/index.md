@@ -7,6 +7,7 @@ tags: ["optimization"]
 ShowToc: true
 math: true
 draft: true
+weight: 20
 ---
 
 zeroth order optimization
