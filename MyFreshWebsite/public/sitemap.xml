@@ -5,16 +5,7 @@
     <loc>http://localhost:1313/blog-and-site/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-and-site/tags/optimization/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog-and-site/posts/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-and-site/tags/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-and-site/posts/post2/</loc>
     <lastmod>2024-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/tags/markdown/</loc>
@@ -27,6 +18,9 @@
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/tags/shortcodes/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog-and-site/tags/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/archives/</loc>

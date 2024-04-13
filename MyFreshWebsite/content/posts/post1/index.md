@@ -6,6 +6,7 @@ description: "A brief description of Hugo Shortcodes"
 tags: ["markdown", "shortcodes", "privacy"]
 ShowToc: true
 math: true
+draft: true
 ---
 
 don't panic!!

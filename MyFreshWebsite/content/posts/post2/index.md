@@ -6,6 +6,7 @@ description: "zeroth order optimization"
 tags: ["optimization"]
 ShowToc: true
 math: true
+draft: true
 ---
 
 zeroth order optimization
@@ -28,7 +29,12 @@ the difference between the $\nabla f(x)$ and $\nabla^{\delta}f(x)$, 可以被连
 
 直观：当$\delta\to0$，就是随机的方向导数
 
-$$a+b=10\\c+d=10$$
+$$a+b=10\\\\c+d=10$$
 
 1. non-orthogonal-invariant distributions
 gradient estimator 不再是某点的光滑化后的梯度了
+
+$$V^*(s)=\max_a d \\\\ d \\\\ s$$
+$$a$$
+
+$$\begin{aligned}&s+s=10\\\\ &s+v+10=10\end{aligned}$$
