@@ -45,11 +45,11 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: "/favicons/favicon.ico"
-    favicon16x16: "/favicons/favicon-16x16.png"
-    favicon32x32: "/favicons/favicon-32x32.png"
-    apple_touch_icon: "/favicons/apple-touch-icon.png"
-    safari_pinned_tab: "/assets/safari-pinned-tab.svg"
+    favicon: "https://luoxiaogan.github.io/blog-and-site/favicon.ico"
+    favicon16x16: "https://luoxiaogan.github.io/blog-and-site/favicon-16x16.png"
+    favicon32x32: "https://luoxiaogan.github.io/blog-and-site/favicon-32x32.png"
+    apple_touch_icon: "https://luoxiaogan.github.io/blog-and-site/apple-touch-icon.png"
+    safari_pinned_tab: "https://luoxiaogan.github.io/blog-and-site/safari-pinned-tab.svg"
 
   label:
     text: "Little Wolf"
