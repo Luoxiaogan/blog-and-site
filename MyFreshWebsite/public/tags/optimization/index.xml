@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Optimization on Little Wolf</title>
-    <link>http://localhost:1313/tags/optimization/</link>
+    <link>http://localhost:1313/blog-and-site/tags/optimization/</link>
     <description>Recent content in Optimization on Little Wolf</description>
     <image>
       <title>Little Wolf</title>
-      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/blog-and-site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/blog-and-site/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 11 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog-and-site/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>zeroth order optimization</title>
-      <link>http://localhost:1313/posts/post2/</link>
+      <link>http://localhost:1313/blog-and-site/posts/post2/</link>
       <pubDate>Thu, 11 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/post2/</guid>
+      <guid>http://localhost:1313/blog-and-site/posts/post2/</guid>
       <description>zeroth order optimization</description>
     </item>
   </channel>
