@@ -2,7 +2,7 @@
 author: [Gan Luo]
 title: "Miscellaneous"
 date: "2024-04-13"
-description: "variouss"
+description: "various"
 tags: ["misc"]
 ShowToc: true
 math: true

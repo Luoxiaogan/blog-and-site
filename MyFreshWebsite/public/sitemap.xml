@@ -2,38 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog-and-site/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blog-and-site/posts/post3/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-and-site/tags/optimization/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog-and-site/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog-and-site/tags/misc/</loc>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/posts/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-and-site/tags/s/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/tags/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-and-site/posts/post2/</loc>
-    <lastmod>2024-04-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-and-site/tags/markdown/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-and-site/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-and-site/posts/post1/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog-and-site/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/archives/</loc>
   </url><url>
