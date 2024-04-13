@@ -25,4 +25,4 @@ $$\varphi=1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots}}}$$
 
 好
 
-![image](https://luoxiaogan.github.io/blog-and-site/content/posts/post1/images/cat.jpg)
+![cat](images/cat.jpg)
