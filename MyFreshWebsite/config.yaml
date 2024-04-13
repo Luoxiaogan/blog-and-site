@@ -45,15 +45,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     disableFingerprinting: true
-    favicon: "https://luoxiaogan.github.io/blog-and-site/favicon.ico?v=2"
-    favicon16x16: "https://luoxiaogan.github.io/blog-and-site/favicon-16x16.png?v=2"
-    favicon32x32: "https://luoxiaogan.github.io/blog-and-site/favicon-32x32.png?v=2"
-    apple_touch_icon: "https://luoxiaogan.github.io/blog-and-site/apple-touch-icon.png?v=2"
-    safari_pinned_tab: "https://luoxiaogan.github.io/blog-and-site/safari-pinned-tab.svg?v=2"
+    favicon: "/static/favicons/favicon.ico"
+    favicon16x16: "/static/favicons/favicon-16x16.png"
+    favicon32x32: "/static/favicons/favicon-32x32.png"
+    apple_touch_icon: "/static/favicons/apple-touch-icon.png"
+    safari_pinned_tab: "/static/favicons/safari-pinned-tab.svg"
 
   label:
     text: "Little Wolf"
-    icon: /apple-touch-icon.png
+    icon: "/static/favicons/apple-touch-icon.png"
     iconHeight: 35
 
   # profile-mode
@@ -78,7 +78,7 @@ params:
 
   socialIcons:
     - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://math.stackexchange.com/users/1079162/rogan"
     - name: github
       url: "https://github.com/Luoxiaogan"
 
