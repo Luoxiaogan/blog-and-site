@@ -1,5 +1,5 @@
 baseURL: "https://examplesite.com/"
-title: ExampleSite
+title: Little Wolf
 paginate: 5
 theme: PaperMod
 
@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
+  title: Little Wolf
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -45,14 +45,14 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "/assets/favicon.ico"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    safari_pinned_tab: "/assets/safari-pinned-tab.svg"
 
   label:
-    text: "Home"
+    text: "Little Wolf"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
@@ -74,15 +74,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Content: Welcome to my blog, my name is Little Wolf.
 
   socialIcons:
-    - name: x
-      url: "https://x.com/"
     - name: stackoverflow
       url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/Luoxiaogan"
 
   analytics:
     google:
@@ -115,17 +113,21 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
-      weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
+      weight: 10
+    - identifier: archive
+      name: Archive
+      url: /archives/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 20
+    - identifier: site
+      name: Posts
+      url: https://luoxiaogan.github.io/blog-and-site/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
@@ -137,3 +139,9 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+        
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
