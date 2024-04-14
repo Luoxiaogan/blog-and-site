@@ -5,16 +5,25 @@
     <loc>http://localhost:1313/blog-and-site/posts/post3/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-and-site/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog-and-site/posts/post4/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog-and-site/tags/misc/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog-and-site/tags/exam/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog-and-site/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/posts/</loc>
-    <lastmod>2024-04-13T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog-and-site/tags/statistics/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/tags/</loc>
+    <lastmod>2024-04-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blog-and-site/tags/misc/</loc>
     <lastmod>2024-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blog-and-site/archives/</loc>

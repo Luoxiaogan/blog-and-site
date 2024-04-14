@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog-and-site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Exam</title>
+      <link>http://localhost:1313/blog-and-site/tags/exam/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog-and-site/tags/exam/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>http://localhost:1313/blog-and-site/tags/statistics/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog-and-site/tags/statistics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Misc</title>
       <link>http://localhost:1313/blog-and-site/tags/misc/</link>
